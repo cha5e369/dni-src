@@ -19,7 +19,7 @@ Información básica del BOT:
  - GENERAL: /dni <dígitos>
  - GENERAL: /profile [ID de usuario/nombre de usuario (opcional)]
 ```
-## 💬 Más información:
+## 🛒 Adicional:
 💲 __**Precio:**__ $35 USD
 
 💱 __**Métodos de pago:**__ 
